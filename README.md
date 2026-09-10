@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./github-banner.svg"
+    alt="Sevincxanım Yunusova - Frontend Developer"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">I'm Sevincxanım, Frontend Developer</h1>
 
 <p align="center">
