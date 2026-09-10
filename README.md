@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/sevincxan%C4%B1m-yunusova-b21245397/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:yunusovasevinc08@gmail.com">
@@ -70,6 +70,8 @@
   </a>
 </p>
 
+<h3 align="center">GitHub Stats</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sevincyunusova&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
@@ -78,17 +80,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sevincyunusova&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sevincyunusova/sevincyunusova/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sevincyunusova/sevincyunusova/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/sevincyunusova/sevincyunusova/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sevincyunusova/sevincyunusova/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sevincyunusova/sevincyunusova/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/sevincyunusova/sevincyunusova/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
