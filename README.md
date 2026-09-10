@@ -76,13 +76,13 @@
   <img
     src="./profile/stats.svg"
     alt="GitHub Stats"
+    width="420"
   />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;
   <img
     src="./profile/top-langs.svg"
     alt="Top Languages"
+    width="320"
   />
 </p>
 
@@ -94,11 +94,11 @@
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sevincyunusova/sevincyunusova/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/sevincyunusova/sevincyunova/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/sevincyunusova/sevincyunusova/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/sevincyunusova/sevincyunova/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </p>
